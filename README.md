@@ -1,6 +1,6 @@
 Data Cleaning & Preprocessing – Netflix Dataset
 
-Objective
+Objective:
 The goal of this project is to clean and preprocess a raw Netflix dataset by handling missing values, removing duplicates, and standardizing data formats.
 
 Tools Used
@@ -25,6 +25,6 @@ Files Included
 * cleaned_netflix.csv (cleaned dataset)
 * netflix_data_cleaning.py (code)
 
-Outcome
+Outcome:
 A clean and structured dataset ready for further data analysis and visualization.
 
